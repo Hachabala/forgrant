@@ -1,0 +1,48 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "default webProject template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hachabala",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-debug": "^4.0.0",
+    "gulp-ejs": "^3.1.3",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "imagemin-pngquant": "^6.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-cached": "^1.1.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-remember": "^1.0.1",
+    "gulp-notify": "^3.2.0",
+    "fancy-log": "^1.3.2",
+    "fs": "^0.0.1-security",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "node-normalize-scss": "^8.0.0",
+    "jquery": "^3.3.1",
+    "retinajs": "^2.1.3",
+    "selectric": "^1.13.0",
+    "sass-mq": "^5.0.0"
+  }
+}
